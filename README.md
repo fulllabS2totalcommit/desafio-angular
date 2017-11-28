@@ -4,7 +4,7 @@ First step: Fazer fork desse projeto e iniciar teu desafio! :)
 
 O plano é o seguinte:
 
-0 - Criar a landing page que está em anexo. Não precisa ser examente igual (cores, ícones, imagens, ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
+0 - Criar esta ![landing page](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/15d7fd59f9755d8930192562c91ef230/done.png). Não precisa ser examente igual (cores, ícones, imagens, ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
 
 1 - Esta página possui 2 ações. A de "subscribe" e a de "contact us". 
 
