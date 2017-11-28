@@ -34,9 +34,9 @@ Observações:
 
 - Pode usar bootstrap ou qualquer outro framework frontend.
 
-![Imagem de referencia da landing page](https://i.imgur.com/q3buhL4.jpg)
-
 ![CSV com produtos](https://drive.google.com/file/d/1n-HhjF3pDR7lzBu_9Ri2Gb1dy1iFRgcA/view?usp=sharing)
 
 ![Demo do projeto funcionando](https://afternoon-ravine-40365.herokuapp.com/)
+
+![Imagem de referencia da landing page](https://i.imgur.com/q3buhL4)
 
