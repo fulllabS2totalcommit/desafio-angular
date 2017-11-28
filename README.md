@@ -38,5 +38,5 @@ Observações:
 
 ![Demo do projeto funcionando](https://afternoon-ravine-40365.herokuapp.com/)
 
-![Imagem de referencia da landing page](https://i.imgur.com/q3buhL4)
+![Imagem de referencia da landing page](https://i.imgur.com/q3buhL4.jpg)
 
