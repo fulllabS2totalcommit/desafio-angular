@@ -2,7 +2,7 @@
 
 First step: Fazer fork desse projeto e iniciar teu desafio! :)
 
-Voce pode ver a aplicação final rodando ![aqui](https://afternoon-ravine-40365.herokuapp.com/)
+Voce pode ver a aplicação final rodando https://afternoon-ravine-40365.herokuapp.com/
 
 O plano é o seguinte:
 
