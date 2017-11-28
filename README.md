@@ -14,6 +14,12 @@ O plano é o seguinte:
 
 4 - Publicar essa landing e admin no heroku, ou em algum serviço de sua preferencia, para conseguirmos ver o resultado final :)
 
+Dicas:
+
+0 - Vc vai cadastrar esses produtos numa tabela do seu banco de dados
+1 - Vai criar uma API para filtrar / listar esses produtos
+2 - Vai criar um front em angular pra consumir essa api e fazer os filtros na tela (single page application)
+
 Observações:
 
 - Suba todo seu código pro git e faça commits constantemente para acompanharmos seu avanço
@@ -22,6 +28,9 @@ Observações:
 
 - Pode usar bootstrap ou qualquer outro framework frontend.
 
-![alt text](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/15d7fd59f9755d8930192562c91ef230/done.png)
+![Imagem de referencia da landing page](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/15d7fd59f9755d8930192562c91ef230/done.png)
 
-https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/8da608db8f6b05c83066c69352244848/produtos-desafio.csv
+![CSV com produtos](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/8da608db8f6b05c83066c69352244848/produtos-desafio.csv)
+
+![Demo do projeto funcionando](https://afternoon-ravine-40365.herokuapp.com/)
+
