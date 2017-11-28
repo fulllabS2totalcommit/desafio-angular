@@ -14,11 +14,17 @@ O plano é o seguinte:
 
 4 - Publicar essa landing e admin no heroku, ou em algum serviço de sua preferencia, para conseguirmos ver o resultado final :)
 
+
 Dicas:
 
-0 - Vc vai cadastrar esses produtos numa tabela do seu banco de dados
-1 - Vai criar uma API para filtrar / listar esses produtos
-2 - Vai criar um front em angular pra consumir essa api e fazer os filtros na tela (single page application)
+0 - Utlizar ![este arquivo CSV](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/8da608db8f6b05c83066c69352244848/produtos-desafio.csv) com os produtos pra vc popular essa tela
+
+1 - Vc vai cadastrar esses produtos numa tabela do seu banco de dados
+
+2 - Vai criar uma API para filtrar / listar esses produtos
+
+3 - Vai criar um front em angular pra consumir essa api e fazer os filtros na tela (single page application)
+
 
 Observações:
 
