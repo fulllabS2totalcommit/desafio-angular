@@ -4,7 +4,7 @@ First step: Fazer fork desse projeto e iniciar teu desafio! :)
 
 O plano é o seguinte:
 
-0 - Criar esta ![landing page](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/15d7fd59f9755d8930192562c91ef230/done.png). Não precisa ser examente igual (cores, ícones, imagens, ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
+0 - Criar esta ![landing page](https://imgur.com/a/ODHSe). Não precisa ser examente igual (cores, ícones, imagens, ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
 
 1 - Esta página possui 2 ações. A de "subscribe" e a de "contact us". 
 
@@ -17,7 +17,7 @@ O plano é o seguinte:
 
 Dicas:
 
-0 - Utlizar ![este arquivo CSV](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/8da608db8f6b05c83066c69352244848/produtos-desafio.csv) com os produtos pra vc popular essa tela
+0 - Utlizar ![este arquivo CSV](https://drive.google.com/file/d/1n-HhjF3pDR7lzBu_9Ri2Gb1dy1iFRgcA/view?usp=sharing) com os produtos pra vc popular essa tela
 
 1 - Vc vai cadastrar esses produtos numa tabela do seu banco de dados
 
@@ -34,9 +34,9 @@ Observações:
 
 - Pode usar bootstrap ou qualquer outro framework frontend.
 
-![Imagem de referencia da landing page](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/15d7fd59f9755d8930192562c91ef230/done.png)
+![Imagem de referencia da landing page](https://imgur.com/a/ODHSe)
 
-![CSV com produtos](https://trello-attachments.s3.amazonaws.com/594be65218ca7434fd7f509f/5a1dcd34748f46082d5226cc/8da608db8f6b05c83066c69352244848/produtos-desafio.csv)
+![CSV com produtos](https://drive.google.com/file/d/1n-HhjF3pDR7lzBu_9Ri2Gb1dy1iFRgcA/view?usp=sharing)
 
 ![Demo do projeto funcionando](https://afternoon-ravine-40365.herokuapp.com/)
 
