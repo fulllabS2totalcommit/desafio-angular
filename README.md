@@ -4,7 +4,7 @@ First step: Fazer fork desse projeto e iniciar teu desafio! :)
 
 O plano é o seguinte:
 
-0 - Criar esta ![landing page](https://i.imgur.com/q3buhL4.jpg). Não precisa ser examente igual (cores, ícones, imagens, ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
+0 - Criar a landing page das imagens abaixo. Não precisa ser examente igual (cores, ícones, imagens, ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
 
 1 - Esta página possui 2 ações. A de "subscribe" e a de "contact us". 
 
