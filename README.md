@@ -2,9 +2,11 @@
 
 First step: Fazer fork desse projeto e iniciar teu desafio! :)
 
+Voce pode ver a aplicação final rodando aqui![Demo do projeto funcionando](https://afternoon-ravine-40365.herokuapp.com/)
+
 O plano é o seguinte:
 
-0 - Criar a landing page das imagens abaixo. Não precisa ser examente igual (cores, ícones, imagens, ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
+0 - Criar a landing page com base na imagem LandingPage.jpg que se encontra mais abaixo. Não precisa ser examente igual (cores, ícones, imagens ...). Mas a estrutura tem que ser mantida. Os blocos, campos, alinhamentos, posição dos elementos, ....). 
 
 1 - Esta página possui 2 ações. A de "subscribe" e a de "contact us". 
 
@@ -14,6 +16,13 @@ O plano é o seguinte:
 
 4 - Publicar essa landing e admin no heroku, ou em algum serviço de sua preferencia, para conseguirmos ver o resultado final :)
 
+Observações:
+
+- Suba todo seu código pro git e faça commits constantemente para acompanharmos seu avanço
+
+- Compartilhe conosco a url do repositório :)
+
+- Pode usar bootstrap ou qualquer outro framework frontend.
 
 Dicas:
 
@@ -26,17 +35,6 @@ Dicas:
 3 - Vai criar um front em angular pra consumir essa api e fazer os filtros na tela (single page application)
 
 
-Observações:
-
-- Suba todo seu código pro git e faça commits constantemente para acompanharmos seu avanço
-
-- Compartilhe conosco a url do repositório :)
-
-- Pode usar bootstrap ou qualquer outro framework frontend.
-
-![CSV com produtos](https://drive.google.com/file/d/1n-HhjF3pDR7lzBu_9Ri2Gb1dy1iFRgcA/view?usp=sharing)
-
-![Demo do projeto funcionando](https://afternoon-ravine-40365.herokuapp.com/)
-
+LandingPage.jpg
 ![Imagem de referencia da landing page](https://i.imgur.com/q3buhL4.jpg)
 
