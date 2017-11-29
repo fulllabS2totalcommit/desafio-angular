@@ -26,7 +26,7 @@ Observações:
 
 Dicas:
 
-0 - Utlizar ![este arquivo CSV](https://drive.google.com/file/d/1n-HhjF3pDR7lzBu_9Ri2Gb1dy1iFRgcA/view?usp=sharing) com os produtos pra vc popular essa tela
+0 - Utlizar este arquivo csv(https://drive.google.com/file/d/1n-HhjF3pDR7lzBu_9Ri2Gb1dy1iFRgcA/view?usp=sharing) com os produtos pra vc popular essa tela
 
 1 - Vc vai cadastrar esses produtos numa tabela do seu banco de dados
 
